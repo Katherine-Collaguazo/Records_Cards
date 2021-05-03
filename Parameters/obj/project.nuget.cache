@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9vJI5ddkvkLS5fEt6gVLDHa7QlrxWJge7zsKXJ9OE+YdiStYEb4H0oLRNStgYyp2L/bkzBDfZSp6/BguJg41w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\use\\source\\repos\\ReportCard-ECH\\Parameters\\RecordLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\use\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

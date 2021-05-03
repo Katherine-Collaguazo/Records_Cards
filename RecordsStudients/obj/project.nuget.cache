@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+gHufod6XhpRmNJ0qUuqXlgf+b8mn+GI+CZLVP5HoU+is5CkhotPRdBvRcXSPBiRJ9l5gkD0c/pMPOYbgA3Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\use\\source\\repos\\ReportCard-ECH\\RecordsStudients\\RecordsStudients.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\use\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512",
+    "C:\\Users\\use\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
